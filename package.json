@@ -1,6 +1,6 @@
 {
-  "name": "ionic3-calendar-en",
-  "version": "1.1.3",
+  "name": "ionic3-calendar-hu3-br",
+  "version": "0.0.1",
   "description": "An event calendar component for the Ionic hybrid mobile development platform",
   "main": "index.js",
   "scripts": {
@@ -8,16 +8,17 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/gbrits/ionic-calendar.git"
+    "url": "git+https://github.com/erick-vieira/ionic-calendar.git"
   },
-  "author": "gbrits_0",
+  "author": "erick-vieira",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/gbrits/ionic-calendar/issues"
+    "url": "https://github.com/erick-vieira/ionic-calendar/issues"
   },
-  "homepage": "https://github.com/gbrits/ionic-calendar#readme",
+  "homepage": "https://github.com/erick-vieira/ionic-calendar#readme",
   "dependencies": {},
   "devDependencies": {
+    "@angular/cli": "^6.1.1",
     "typescript": "2.3.4"
   }
 }
